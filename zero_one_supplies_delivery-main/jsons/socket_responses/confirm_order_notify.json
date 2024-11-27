@@ -1,0 +1,18 @@
+{
+  "type": "confirm_order_notify",
+  "order": {
+    "type": "confirm_order",
+    "read": false,
+    "user": "646b2d4999d44af33c686ddf",
+    "notification_data": {
+      "status": "confirm",
+      "_id": "64a276b3a36d5870dbdd1334",
+      "order_number": "01S-176"
+    },
+    "_id": "64bcfc562a09e25b486745e8",
+    "expireAt": "2023-07-23T10:09:26.401Z",
+    "createdAt": "2023-07-23T10:09:26.402Z",
+    "updatedAt": "2023-07-23T10:09:26.402Z"
+  }
+}
+

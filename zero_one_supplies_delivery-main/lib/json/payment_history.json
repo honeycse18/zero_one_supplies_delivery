@@ -1,0 +1,106 @@
+{
+  "error": false,
+  "data": {
+    "docs": [
+      {
+        "_id": "650190856a215f00f0e4b7d0",
+        "delivery_man": "6471cb6683df779a7c57fde4",
+        "order": "65017eb74766c547718df45b",
+        "delivery": "65018bc16a215f00f0e4aa8b",
+        "amount": 3.67,
+        "createdAt": "2023-09-13T10:35:49.439Z",
+        "updatedAt": "2023-09-13T10:35:49.439Z"
+      },
+      {
+        "_id": "64f0183d708914b5983b44e5",
+        "delivery_man": "6471cb6683df779a7c57fde4",
+        "order": "64edb9a7708914b59834ee12",
+        "delivery": "64edd2e1708914b59835d89c",
+        "amount": 24.299999999999997,
+        "createdAt": "2023-08-31T04:34:05.109Z",
+        "updatedAt": "2023-08-31T04:34:05.109Z"
+      },
+      {
+        "_id": "64993622582d21b9d28e6a22",
+        "delivery_man": "6471cb6683df779a7c57fde4",
+        "order": "6498f06a5876aef3af97eaab",
+        "delivery": "64993468273463a119e55901",
+        "amount": 3.58,
+        "createdAt": "2023-06-26T06:54:26.846Z",
+        "updatedAt": "2023-06-26T06:54:26.846Z"
+      },
+      {
+        "_id": "6499359b0783b51879a80fe1",
+        "delivery_man": "6471cb6683df779a7c57fde4",
+        "order": "6498f06a5876aef3af97eaab",
+        "delivery": "64993468273463a119e55901",
+        "amount": 3.58,
+        "createdAt": "2023-06-26T06:52:11.901Z",
+        "updatedAt": "2023-06-26T06:52:11.901Z"
+      },
+      {
+        "_id": "649934d5273463a119e55a27",
+        "delivery_man": "6471cb6683df779a7c57fde4",
+        "order": "6498f06a5876aef3af97eaab",
+        "delivery": "64993468273463a119e55901",
+        "amount": 3.58,
+        "createdAt": "2023-06-26T06:48:53.183Z",
+        "updatedAt": "2023-06-26T06:48:53.183Z"
+      },
+      {
+        "_id": "6499320b273463a119e5556a",
+        "delivery_man": "6471cb6683df779a7c57fde4",
+        "order": "649153de76ff33bdd7b52b66",
+        "delivery": "64955d602b68e9c9b78521a7",
+        "amount": 4.67,
+        "createdAt": "2023-06-26T06:36:59.923Z",
+        "updatedAt": "2023-06-26T06:36:59.923Z"
+      },
+      {
+        "_id": "6499319d8f65f7008b3be026",
+        "delivery_man": "6471cb6683df779a7c57fde4",
+        "order": "649153de76ff33bdd7b52b66",
+        "delivery": "64955d602b68e9c9b78521a7",
+        "amount": 4.67,
+        "createdAt": "2023-06-26T06:35:09.084Z",
+        "updatedAt": "2023-06-26T06:35:09.084Z"
+      },
+      {
+        "_id": "649931533f2c49676f521795",
+        "delivery_man": "6471cb6683df779a7c57fde4",
+        "order": "649153de76ff33bdd7b52b66",
+        "delivery": "64955d602b68e9c9b78521a7",
+        "amount": 4.67,
+        "createdAt": "2023-06-26T06:33:55.899Z",
+        "updatedAt": "2023-06-26T06:33:55.899Z"
+      },
+      {
+        "_id": "6492b76e6f13b619f7e4a067",
+        "delivery_man": "6471cb6683df779a7c57fde4",
+        "order": "648e52571c48623ee26875e1",
+        "delivery": "648eb18acf04968dd43b74fd",
+        "amount": 22.98,
+        "createdAt": "2023-06-21T08:40:14.111Z",
+        "updatedAt": "2023-06-21T08:40:14.111Z"
+      },
+      {
+        "_id": "64918cdb29f649f898189523",
+        "delivery_man": "6471cb6683df779a7c57fde4",
+        "order": "648e52571c48623ee26875e1",
+        "delivery": "648eb18acf04968dd43b74fd",
+        "amount": 22.98,
+        "createdAt": "2023-06-20T11:26:19.519Z",
+        "updatedAt": "2023-06-20T11:26:19.519Z"
+      }
+    ],
+    "totalDocs": 12,
+    "limit": 10,
+    "page": 1,
+    "totalPages": 2,
+    "pagingCounter": 1,
+    "hasPrevPage": false,
+    "hasNextPage": true,
+    "prevPage": null,
+    "nextPage": 2
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "type": "confirm_orders",
+  "orders": {
+    "_id": "65c0c0cd0f72ea2d18da98cc",
+    "user": "646b2d4999d44af33c686ddf",
+    "totalProducts": 2,
+    "orders": [
+      {
+        "total": 452,
+        "products": [
+         "adsa",
+          "asdasd",
+          "asdasd"
+        ],
+        "store": { "_id": "657432cd42dc2bdfbe348902", "name": "Dev_Store" }
+      }
+    ],
+    "netAmount": 452,
+    "company_commission": "5%",
+    "charged_amount": 22.6,
+    "total_save_money": 0,
+    "total": 835,
+    "product_receive_time": "any_time",
+    "estimated_delivery_hours": 96,
+    "delivery": {
+      "address": {
+        "position": { "latitude": 23.7862912, "longitude": 90.4134656 },
+        "_id": "6534d41dcc6e7a96f129199f",
+        "address": "85 outer bypass road, Sonadanga Khulna",
+        "delivery": "home",
+        "totalCost": 360,
+        "totalDistanceInKm": null
+      },
+      "type": "home_delivery",
+      "_id": "65c0c0cd0f72ea2d18da98cd"
+    },
+    "payment_status": "pending",
+    "status": "confirm",
+    "createdAt": "2024-02-05T11:04:45.852Z",
+    "updatedAt": "2024-02-05T11:09:26.894Z",
+    "ref": 207,
+    "__v": 0,
+    "payment": "65c0c0da0f72ea2d18da98f1",
+    "payment_method": "cash_on_delivery"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "error": false,
+  "msg": "msg",
+  "data": {
+    "docs": [
+      {
+        "_id": "649401e34596f157513d4878",
+        "delivery_man": "6471cb6683df779a7c57fde4",
+        "amount": 1,
+        "withdraw_method": {
+          "_id": "6493dfdfb722ef38d255cca6",
+          "delivery_man": "6471cb6683df779a7c57fde4",
+          "type": "paypal",
+          "details": [
+            {
+              "key": "account_holder_name",
+              "value": "Sabbir Ahmmed"
+            },
+            {
+              "key": "email",
+              "value": "sabbir.py@gmaail.com"
+            }
+          ],
+          "createdAt": "2023-06-22T05:45:03.334Z",
+          "updatedAt": "2023-06-22T08:44:09.343Z",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/2560px-PayPal.svg.png"
+        },
+        "status": "completed",
+        "createdAt": "2023-06-22T08:10:11.323Z",
+        "updatedAt": "2023-06-26T04:37:11.606Z"
+      }
+    ],
+    "totalDocs": 2,
+    "limit": 10,
+    "page": 1,
+    "totalPages": 1,
+    "pagingCounter": 1,
+    "hasPrevPage": false,
+    "hasNextPage": false,
+    "prevPage": null,
+    "nextPage": null
+  }
+}

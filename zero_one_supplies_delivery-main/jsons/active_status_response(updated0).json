@@ -1,0 +1,35 @@
+{
+  "error": false,
+  "msg": "Service & location updated",
+  "data": {
+    "delivery_man": {
+      "_id": "6471cb6683df779a7c57fde4",
+      "position": {
+        "latitude": 22.8031599003108,
+        "longitude": 89.53466732171763
+      },
+      "delivery_service": true
+    },
+    "orders": [
+      {
+        "_id": "6496a85d2b68e9c9b7854ae0",
+        "pickup_station": "647d31d676427a3893f39732",
+        "order": {
+          "_id": "6485ff440c0fb95d61cd5c2e",
+          "order_number": "01S-85",
+          "total": 1134.67,
+          "delivery": {
+            "distance": 4.67,
+            "per_km_fare": 1,
+            "fare": 4.67
+          },
+          "payment_status": "pending",
+          "received_time": "any_time"
+        },
+        "isCompleted": false,
+        "status": "delivered",
+        "createdAt": "2023-06-24T08:25:01.044Z"
+      }
+    ]
+  }
+}

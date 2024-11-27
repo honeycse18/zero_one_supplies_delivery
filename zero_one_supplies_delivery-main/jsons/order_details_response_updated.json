@@ -1,0 +1,73 @@
+
+{
+  "error": false,
+  "data": {
+    "_id": "65c0c1100f72ea2d18da993c",
+    "order": {
+      "_id": "65c0c0cd0f72ea2d18da98cc",
+      "orders": [
+        {
+          "total": 452,
+          "products": ["adsa", "asdasd", "asdasd"],
+          "store": { "_id": "657432cd42dc2bdfbe348902", "name": "Dev_Store" }
+        }
+      ],
+      "product_receive_time": "any_time",
+      "estimated_delivery_hours": 96,
+      "createdAt": "2024-02-05T11:04:45.852Z",
+      "order_number": "01S-207",
+      "user": {
+        "_id": "646b2d4999d44af33c686ddf",
+        "first_name": "john",
+        "last_name": "doe",
+        "email": "user@gmail.com",
+        "phone": "+880123456789"
+      },
+      "delivery": {
+        "type": "home_delivery",
+        "address": {
+          "_id": "6534d41dcc6e7a96f129199f",
+          "address": "85 outer bypass road, Sonadanga Khulna",
+          "delivery": "home",
+          "position": { "latitude": 23.7862912, "longitude": 90.4134656 },
+          "totalCost": 360,
+          "totalDistanceInKm": null
+        },
+        "_id": "65c0c0cd0f72ea2d18da98cd"
+      },
+      "payment_method": "cash_on_delivery",
+      "payment_status": "pending",
+      "subtotal": 452,
+      "company_vat": "5%",
+      "vat": 22.6,
+      "total_save_money": 0,
+      "total": 835
+    },
+    "destination": {
+      "_id": "647ecfe4b7ac78d922c96240",
+      "name": "Point GTA",
+      "address": "X53C+Q4J, N1, Notsé, Togo",
+      "location": {
+        "latitude": 6.954474854119787,
+        "longitude": 1.170234205000824
+      },
+      "charge": 100,
+      "estimated_day": 5,
+      "active": true,
+      "createdAt": "2023-06-06T06:19:16.917Z",
+      "updatedAt": "2023-12-17T06:46:26.015Z",
+      "__v": 0,
+      "estimated_delivery_hours": 48
+    },
+    "type": "product_order",
+    "delivery_man": {
+      "position": { "latitude": 22.84439, "longitude": 89.537405 },
+      "_id": "6471cb6683df779a7c57fde4",
+      "first_name": "abc",
+      "last_name": "def",
+      "email": "delivery@gmail.com",
+      "phone": "+8801725151566",
+      "delivery_service": true
+    }
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "project_info": {
+    "project_number": "944221345030",
+    "project_id": "supplies-389809",
+    "storage_bucket": "supplies-389809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944221345030:android:72d43c6e4d5007c9293a87",
+        "android_client_info": {
+          "package_name": "com.zeroonesupplies.zeroonesupplies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944221345030-1eqtvn4vdsip62bav20v5q2qeca1ocqi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zeroonesupplies.zeroonesupplies",
+            "certificate_hash": "c7c63b7b5e69763fa7358c77a6cbd666d0405493"
+          }
+        },
+        {
+          "client_id": "944221345030-84o2s6l3btl3f0a4crfihpa69tdqpvc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zeroonesupplies.zeroonesupplies",
+            "certificate_hash": "7dd3056cf3b4b2904ac57e301316f1894c863450"
+          }
+        },
+        {
+          "client_id": "944221345030-sfedddcvbtoc1m0mdl8pl9mc18o3i040.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zeroonesupplies.zeroonesupplies",
+            "certificate_hash": "38d72f41f18f368e6349b8381f58dba950e881e9"
+          }
+        },
+        {
+          "client_id": "944221345030-tdvg8436lcj53dnpbju6ilf3mc8uajur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zeroonesupplies.zeroonesupplies",
+            "certificate_hash": "5991ede678eccdef51d0ce051b730e7977cc9c87"
+          }
+        },
+        {
+          "client_id": "944221345030-mlc8idhpc6pc7tc75pb9rn8r8r5hq8ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTJQ3i3OC-MRbew6zi8iljTqt_vKX4FrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944221345030-mlc8idhpc6pc7tc75pb9rn8r8r5hq8ol.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "944221345030-6oormhckbqegc2vpk6sr0fe88pikb0d1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zeroonesupplies.zeroonesuppliesdelivery"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944221345030:android:48ed507f9b2ef1b6293a87",
+        "android_client_info": {
+          "package_name": "com.zeroonesupplies.zeroonesuppliesdelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944221345030-785gic0jr7925hok3inhjs2o5p24ri0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zeroonesupplies.zeroonesuppliesdelivery",
+            "certificate_hash": "33e6fe809ceb5fe1ed5d2abda4ef8787b1c39403"
+          }
+        },
+        {
+          "client_id": "944221345030-c14f1odtgf2altsijub2hm5lq62t3s14.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zeroonesupplies.zeroonesuppliesdelivery",
+            "certificate_hash": "c7c63b7b5e69763fa7358c77a6cbd666d0405493"
+          }
+        },
+        {
+          "client_id": "944221345030-cr2b68dnnpkuvv06p138dqfvcnr67j6t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zeroonesupplies.zeroonesuppliesdelivery",
+            "certificate_hash": "7dd3056cf3b4b2904ac57e301316f1894c863450"
+          }
+        },
+        {
+          "client_id": "944221345030-vgis8ciftfh64j7ehia72l685megeafo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zeroonesupplies.zeroonesuppliesdelivery",
+            "certificate_hash": "38d72f41f18f368e6349b8381f58dba950e881e9"
+          }
+        },
+        {
+          "client_id": "944221345030-mlc8idhpc6pc7tc75pb9rn8r8r5hq8ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTJQ3i3OC-MRbew6zi8iljTqt_vKX4FrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944221345030-mlc8idhpc6pc7tc75pb9rn8r8r5hq8ol.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "944221345030-6oormhckbqegc2vpk6sr0fe88pikb0d1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zeroonesupplies.zeroonesuppliesdelivery"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944221345030:android:a9bdd0f35851c4d4293a87",
+        "android_client_info": {
+          "package_name": "com.zeroonesupplies.zeroonesuppliesstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944221345030-ajukmabo7e8miandmluebft63ar53v84.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zeroonesupplies.zeroonesuppliesstore",
+            "certificate_hash": "c7c63b7b5e69763fa7358c77a6cbd666d0405493"
+          }
+        },
+        {
+          "client_id": "944221345030-cv3l37ituotlh2g2s91is6oiqpdddukk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zeroonesupplies.zeroonesuppliesstore",
+            "certificate_hash": "97a3680f638366aa5da4123dc51a453aa278bb98"
+          }
+        },
+        {
+          "client_id": "944221345030-hte1cm4t5rblvpjsnd4berml82t33nst.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zeroonesupplies.zeroonesuppliesstore",
+            "certificate_hash": "7dd3056cf3b4b2904ac57e301316f1894c863450"
+          }
+        },
+        {
+          "client_id": "944221345030-mmcslgp1b88ib43e0skuv5kmoije093g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zeroonesupplies.zeroonesuppliesstore",
+            "certificate_hash": "38d72f41f18f368e6349b8381f58dba950e881e9"
+          }
+        },
+        {
+          "client_id": "944221345030-mlc8idhpc6pc7tc75pb9rn8r8r5hq8ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTJQ3i3OC-MRbew6zi8iljTqt_vKX4FrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944221345030-mlc8idhpc6pc7tc75pb9rn8r8r5hq8ol.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "944221345030-6oormhckbqegc2vpk6sr0fe88pikb0d1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zeroonesupplies.zeroonesuppliesdelivery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

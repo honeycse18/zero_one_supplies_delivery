@@ -1,0 +1,122 @@
+{
+  "error": false,
+  "msg": "Service & location updated",
+  "data": {
+    "delivery_man": {
+      "_id": "6471cb6683df779a7c57fde4",
+      "position": {
+        "latitude": 22.8031599003108,
+        "longitude": 89.53466732171763
+      },
+      "delivery_service": true
+    },
+    "orders": [
+      {
+        "_id": "648eb18acf04968dd43b74fd",
+        "pickup_station": "647ecfe4b7ac78d922c96240",
+        "delivery_man": "6471cb6683df779a7c57fde4",
+        "order": [
+          {
+            "_id": "648e52571c48623ee26875e1",
+            "user": "646b2d4999d44af33c686ddf",
+            "products": [
+              {
+                "product": "64684a91060034d829c8be06",
+                "name": "BIOAQUA Body Neck Legs Back Peach Extract Fruit Acid",
+                "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/64684d3f060034d829c8be17/product.jpg",
+                "unit": "unit1",
+                "price": 445,
+                "quantity": 2,
+                "subtotal": 890,
+                "_id": "648e52571c48623ee26875e2"
+              }
+            ],
+            "net_price": 890,
+            "subtotal": 890,
+            "discount": null,
+            "vat": 89,
+            "vat_applied": {
+              "type": "percentage",
+              "value": 10
+            },
+            "delivery": {
+              "distance": 7.66,
+              "per_km_fare": 3,
+              "fare": 22.98
+            },
+            "total": 1101.98,
+            "estimated_delivery_day": "2023-06-23T00:00:00.000Z",
+            "received_time": "any_time",
+            "cus_address": {
+              "delivery_type": "office",
+              "address_book": {
+                "_id": "646dda3b6531490f4ce7924e",
+                "user": "646b2d4999d44af33c686ddf",
+                "name": "Ahad",
+                "phone": "+8801475896",
+                "province": "Dhaka",
+                "city": "Dhaka",
+                "area": "Motijhil",
+                "address": "2/700 Khan Bahadur Road",
+                "landmark": "Gulistan",
+                "delivery": "office",
+                "default_shipping_address": true,
+                "default_billing_address": true,
+                "country": "Bangladesh",
+                "is_primary": false,
+                "createdAt": "2023-05-24T09:34:51.115Z",
+                "updatedAt": "2023-06-11T05:32:44.774Z",
+                "location": {
+                  "type": "Point",
+                  "coordinates": [89.55679819218751, 22.813134016308517]
+                },
+                "position": {
+                  "latitude": 22.813134016308517,
+                  "longitude": 89.55679819218751
+                }
+              },
+              "position": {
+                "latitude": 22.813134016308517,
+                "longitude": 89.55679819218751
+              }
+            },
+            "pickup_station": {
+              "_id": "647ecfe4b7ac78d922c96240",
+              "name": "Khulna, DoulotPur",
+              "address": "DoulotPur Bus Stop",
+              "charged": 100,
+              "pickup_location": {
+                "latitude": 22.86844033946918,
+                "longitude": 89.5264384825167
+              }
+            },
+            "payment_status": "completed",
+            "status": "delivered",
+            "createdAt": "2023-06-18T00:39:51.802Z",
+            "updatedAt": "2023-06-20T11:26:19.407Z",
+            "ref": 93,
+            "payment": "648e528e1c48623ee26875ee",
+            "payment_method": "cash_on_delivery"
+          }
+        ],
+        "current_position": {
+          "coordinates": []
+        },
+        "pickupLocation": {
+          "latitude": 22.86844033946918,
+          "longitude": 89.5264384825167
+        },
+        "dropLocation": {
+          "latitude": 22.813134016308517,
+          "longitude": 89.55679819218751
+        },
+        "isActive": false,
+        "isCompleted": false,
+        "status": "picked",
+        "payment": false,
+        "createdAt": "2023-06-18T07:26:02.761Z",
+        "updatedAt": "2023-06-18T07:26:02.761Z"
+      }
+    ]
+  }
+}

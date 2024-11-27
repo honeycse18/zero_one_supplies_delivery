@@ -1,0 +1,9 @@
+{
+    "error": false,
+    "msg": "Login successful",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDcxY2I2NjgzZGY3NzlhN2M1N2ZkZTQiLCJyb2xlIjoiZGVsaXZlcnkiLCJpYXQiOjE2ODUzNDg0OTgsImV4cCI6MTY4NjY0NDQ5OH0.xheJ67z-jLfxuU3e4Wlt18n6eURnRBbSiTVyaAIcNnE",
+    "role": "delivery",
+    "phone": "+8801725151566",
+    "verified": true,
+    "active": true
+}

@@ -1,0 +1,29 @@
+{
+  "error": false,
+  "msg": "msg",
+  "data": {
+    "total_earning": 116.67,
+    "total_withdraw": 2.0,
+    "current_balance": 114.67,
+    "saved_withdraw_methods": [
+      {
+        "_id": "6493dfdfb722ef38d255cca6",
+        "delivery_man": "6471cb6683df779a7c57fde4",
+        "type": "paypal",
+        "details": [
+          {
+            "key": "account_holder_name",
+            "value": "Sabbir Ahmmed"
+          },
+          {
+            "key": "email",
+            "value": "sabbir.py@gmaail.com"
+          }
+        ],
+        "createdAt": "2023-06-22T05:45:03.334Z",
+        "updatedAt": "2023-06-22T08:44:09.343Z",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/2560px-PayPal.svg.png"
+      }
+    ]
+  }
+}

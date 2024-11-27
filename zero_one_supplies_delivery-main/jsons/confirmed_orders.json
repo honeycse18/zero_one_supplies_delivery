@@ -1,0 +1,127 @@
+{
+  "error": false,
+  "msg": "msg",
+  "data": {
+    "docs": [
+      {
+        "_id": "64a276b3a36d5870dbdd1334",
+        "order_number": "01S-176",
+        "date": "2023-07-03",
+        "user": {
+          "_id": "646b2d4999d44af33c686ddf",
+          "first_name": "test",
+          "last_name": "user",
+          "email": "user@gmail.com",
+          "phone": "8888999966332",
+          "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/64abecb29dc398eaf8b24ee5/image.jpg"
+        },
+        "products": [
+          {
+            "product": "646a64a899d44af33c686d32",
+            "store": {
+              "_id": "646ef58f480bea6c4415316a",
+              "name": "My store",
+              "location": "Khulna, Bangladesh",
+              "description": "aa",
+              "vendor": {
+                "_id": "642922e96fbdc0bd7a7c1e64",
+                "first_name": "01 ",
+                "last_name": "Supplies",
+                "email": "admin@gmail.com",
+                "phone": "+8801725151577"
+              },
+              "logo": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646ef58f480bea6c4415316a/logo.png"
+            },
+            "name": "Bluetooth Earphone with Power Case",
+            "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/646a64a799d44af33c686d2a/product.jpg",
+            "unit": "",
+            "price": 500,
+            "quantity": 1,
+            "subtotal": 500,
+            "_id": "64a276b3a36d5870dbdd1335"
+          }
+        ],
+        "net_price": 500,
+        "subtotal": 500,
+        "discount": 0,
+        "discount_coupon": {
+          "code": "2024",
+          "value": 10,
+          "discount_type": "percentage"
+        },
+        "vat": 5,
+        "vat_applied": {
+          "type": "flat",
+          "value": 5
+        },
+        "delivery": {
+          "distance": 7.3,
+          "per_km_fare": 3,
+          "fare": 21.9
+        },
+        "total": 505,
+        "payment_status": "pending",
+        "payment_method": "cash_on_delivery",
+        "payment": "64a279b1a36d5870dbdd1891",
+        "status": "confirm",
+        "createdAt": "2023-07-03T07:20:19.495Z",
+        "updatedAt": "2023-07-23T10:09:26.231Z",
+        "estimated_delivery_day": "2023-07-10T07:20:18.195Z",
+        "received_time": "any_time",
+        "cus_address": {
+          "delivery_type": "home",
+          "address_book": {
+            "_id": "6496ab942b68e9c9b7854c88",
+            "user": "646b2d4999d44af33c686ddf",
+            "name": "Gigi",
+            "phone": "Leon",
+            "province": "Khulna Division",
+            "city": "Khulna",
+            "area": "Boro Boyra",
+            "address": "producers office is the GC w UFC it r",
+            "landmark": "fish",
+            "delivery": "home",
+            "default_shipping_address": false,
+            "default_billing_address": true,
+            "createdAt": "2023-06-24T08:38:44.938Z",
+            "updatedAt": "2023-06-24T08:38:44.938Z",
+            "is_primary": false,
+            "country": "Bangladesh",
+            "location": {
+              "type": "Point",
+              "coordinates": [89.57671091191408, 22.78362777658395]
+            },
+            "position": {
+              "latitude": 22.844632260023474,
+              "longitude": 89.53747317194939
+            },
+            "zip_code": ""
+          },
+          "position": {
+            "latitude": 22.844632260023474,
+            "longitude": 89.53747317194939
+          }
+        },
+        "pickup_station": {
+          "_id": "647d31d676427a3893f39732",
+          "name": "khulna pickup point",
+          "address": "Sonadanga, khulna",
+          "charged": 30,
+          "pickup_location": {
+            "latitude": 22.8031599003108,
+            "longitude": 89.53466732171763
+          }
+        }
+      }
+    ],
+    "totalDocs": 4,
+    "limit": 10,
+    "page": 1,
+    "totalPages": 1,
+    "pagingCounter": 1,
+    "hasPrevPage": false,
+    "hasNextPage": false,
+    "prevPage": null,
+    "nextPage": null
+  }
+}

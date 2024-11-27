@@ -1,0 +1,26 @@
+{
+    "error": false,
+    "msg": "msg",
+    "data": {
+        "docs": [
+            {
+                "_id": "65c0706a1fefeae2eb0ed2fb",
+                "status": "approved",
+                "payment_status": "pending",
+                "delivery_number": "01S-35",
+                "date": "2024-02-05",
+                "total": 1547,
+                "payment_method": "cash_on_delivery"
+            }
+        ],
+        "totalDocs": 1,
+        "limit": 10,
+        "page": 1,
+        "totalPages": 1,
+        "pagingCounter": 1,
+        "hasPrevPage": false,
+        "hasNextPage": false,
+        "prevPage": null,
+        "nextPage": null
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "error": false,
+    "msg": "msg",
+    "data": {
+        "_id": "648eb18acf04968dd43b74fd",
+        "order": {
+            "_id": "648e52571c48623ee26875e1",
+            "order_number": "01S-93",
+            "user": {
+                "_id": "646b2d4999d44af33c686ddf",
+                "first_name": "second",
+                "last_name": "halfback",
+                "email": "user@gmail.com",
+                "phone": "85667777777777"
+            },
+            "products": [
+                {
+                    "product": "64684a91060034d829c8be06",
+                    "name": "BIOAQUA Body Neck Legs Back Peach Extract Fruit Acid",
+                    "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/01supplies/store/64684d3f060034d829c8be17/product.jpg",
+                    "unit": "unit1",
+                    "price": 445,
+                    "quantity": 2,
+                    "subtotal": 890,
+                    "_id": "648e52571c48623ee26875e2"
+                }
+            ],
+            "subtotal": 890,
+            "vat": 89,
+            "pickup_station_charged": 100,
+            "delivery": {
+                "distance": 7.66,
+                "per_km_fare": 3,
+                "fare": 22.98
+            },
+            "total": 1101.98,
+            "payment_method": "cash_on_delivery",
+            "payment_status": "completed"
+        },
+        "status": "picked",
+        "pickup_position": {
+            "latitude": 22.86844033946918,
+            "longitude": 89.5264384825167
+        },
+        "user_position": {
+            "latitude": 22.813134016308517,
+            "longitude": 89.55679819218751
+        },
+        "delivery_man": {
+            "position": {
+                "latitude": 22.8031599003108,
+                "longitude": 89.53466732171763
+            },
+            "_id": "6471cb6683df779a7c57fde4",
+            "first_name": "abc",
+            "last_name": "def",
+            "email": "delivery@gmail.com",
+            "phone": "+8801725151566",
+            "delivery_service": true
+        }
+    }
+}

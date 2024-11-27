@@ -1,0 +1,33 @@
+{
+    "error": false,
+    "msg": "Successfully verified",
+    "data": {
+        "_id": "6471cb6683df779a7c57fde4",
+        "first_name": "abc",
+        "last_name": "def",
+        "email": "delivery@gmail.com",
+        "phone": "+8801725151566",
+        "role": "delivery",
+        "delivery_service": true,
+        "delivery_man": {
+            "_id": "647d612e16d28d78222a1b70",
+            "address": "50, outerbypass road, sonadanga, khulna",
+            "image": "https://i.ibb.co/D1djGHC/logo.png",
+            "nid_number": "123456789099",
+            "nid_image": "https://i.ibb.co/D1djGHC/logo.png",
+            "address_proof": "https://i.ibb.co/D1djGHC/logo.png",
+            "tax_name": "govt. tax",
+            "tax_number": "123456",
+            "status": "approved",
+            "delivery_man": "6471cb6683df779a7c57fde4",
+            "country": "Bangladesh",
+            "state": "Khulna",
+            "city": "Khulna",
+            "zipcode": "1901",
+            "pickup_station": "647d31d676427a3893f39732",
+            "createdAt": "2023-06-05T04:14:38.517Z",
+            "updatedAt": "2023-06-10T10:02:45.931Z",
+            "__v": 0
+        }
+    }
+}

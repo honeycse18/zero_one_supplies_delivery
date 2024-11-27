@@ -1,0 +1,61 @@
+{
+  "error": false,
+  "msg": "Service & location updated",
+  "data": {
+    "delivery_man": {
+      "_id": "6471cb6683df779a7c57fde4",
+      "position": { "latitude": 22.84439, "longitude": 89.537405 },
+      "delivery_service": true
+    },
+    "delivery_items": [
+      {
+        "_id": "65c0c2c50f72ea2d18da99e6",
+        "pickup_station": "647ecfe4b7ac78d922c96240",
+        "order": {
+          "_id": "65c0c0cd0f72ea2d18da98cc",
+          "order_number": "01S-207",
+          "total": 835,
+          "payment_status": "pending",
+          "payment_method": "cash_on_delivery",
+          "estimated_delivery_hours": 96
+        },
+        "isCompleted": false,
+        "status": "pending",
+        "createdAt": "2024-02-05T11:13:09.800Z",
+        "type": "product_order"
+      },
+      {
+        "_id": "65c0c1100f72ea2d18da993c",
+        "pickup_station": "647ecfe4b7ac78d922c96240",
+        "order": {
+          "_id": "65c0c0cd0f72ea2d18da98cc",
+          "order_number": "01S-207",
+          "total": 835,
+          "payment_status": "pending",
+          "payment_method": "cash_on_delivery",
+          "estimated_delivery_hours": 96
+        },
+        "isCompleted": false,
+        "status": "pending",
+        "createdAt": "2024-02-05T11:05:52.411Z",
+        "type": "product_order"
+      },
+      {
+        "_id": "65bf341c2a81a56b2d53c67f",
+        "pickup_station": "653a2df332077134ed1576f5",
+        "order": {
+          "_id": "65bf33732a81a56b2d53c5be",
+          "order_number": "01S-206",
+          "total": 805,
+          "payment_status": "pending",
+          "payment_method": "cash_on_delivery",
+          "estimated_delivery_hours": 48
+        },
+        "isCompleted": false,
+        "status": "pending",
+        "createdAt": "2024-02-04T06:52:12.499Z",
+        "type": "product_order"
+      }
+    ]
+  }
+}

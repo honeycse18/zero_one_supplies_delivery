@@ -1,0 +1,39 @@
+{
+  "error": false,
+  "msg": "Service & location updated",
+  "data": {
+    "delivery_man": {
+      "_id": "6471cb6683df779a7c57fde4",
+      "position": {
+        "latitude": 22.8031599003108,
+        "longitude": 89.53466732171763
+      },
+      "delivery_service": true
+    },
+    "orders": [
+      {
+        "_id": "648eb18acf04968dd43b74fd",
+        "pickup_station": "647ecfe4b7ac78d922c96240",
+        "delivery_man": "6471cb6683df779a7c57fde4",
+        "order": "648e52571c48623ee26875e1",
+        "current_position": {
+          "coordinates": []
+        },
+        "pickupLocation": {
+          "latitude": 22.86844033946918,
+          "longitude": 89.5264384825167
+        },
+        "dropLocation": {
+          "latitude": 22.813134016308517,
+          "longitude": 89.55679819218751
+        },
+        "isActive": false,
+        "isCompleted": false,
+        "status": "picked",
+        "payment": false,
+        "createdAt": "2023-06-18T07:26:02.761Z",
+        "updatedAt": "2023-06-18T07:26:02.761Z"
+      }
+    ]
+  }
+}
